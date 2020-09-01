@@ -1,7 +1,7 @@
 # Python 3 Coding
 
 ---
-8/31/2020 - 211kansas_html_scraper.py:
+8/31/2020 - 211kansas_search_results_scraper.py:
 
 Scrape search results from html class tags into csv file.
 
